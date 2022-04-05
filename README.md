@@ -3,7 +3,7 @@
 - Estudando Programação 💻
 - Atualmente estudando React 👨‍💻
 - Apaixonado por Games 🎮
-- Aprocura do Primeiro Emprego em Programação 💼
+- A procura do Primeiro Emprego em Programação 💼
 
 <div align="center">
   <a href="https://github.com/TI-fernando">
