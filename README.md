@@ -9,7 +9,7 @@
     
   - Estudando Programação 💻
     
-  - Atualmente estudando React 👨‍💻
+  - Atualmente Cursando o Curso DevQuest 👨‍💻
     
   - Apaixonado por Games 🎮
     
