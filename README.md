@@ -43,6 +43,9 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 </p>
 
 
+![snake gif](https://github.com/TI-fernando/TI-fernando/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ----
 <h2>Onde Me Encontrar</h2>
