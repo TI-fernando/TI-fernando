@@ -10,7 +10,7 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 
 - 🌱 &nbsp; Aprendendo mais sobre **React**, **Node.js**, **Clean Code**, **Aprofundando em JavaScript**.
 
-<h3>Minhas Skills</h3>
+<h2>Minhas Skills</h2>
 
 **Aplicações e Dados**
 
@@ -37,12 +37,15 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 ----
 <br/>
 
-[![Fernando](https://github-readme-stats.vercel.app/api?username=TI-fernando&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TI-fernando&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de Fernando" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TI-fernando&theme=dracula&layout=compact" alt="Linguagens mais usadas por Fernando" width="305" style="margin-left: 10px;" />
+</p>
 
-[![Fernando](https://github-readme-stats.vercel.app/api/top-langs/?username=TI-fernando&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ----
-<h3>Onde Me Encontrar</h3>
+<h2>Onde Me Encontrar</h2>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandohenrique654/)](https://www.linkedin.com/in/fernandohenrique654/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:fernandoagro.654@gmail.com)](mailto:fernandoagro.654@gmail.com)
