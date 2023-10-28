@@ -50,4 +50,4 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:fernandoagro.654@gmail.com)](mailto:fernandoagro.654@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/TI-fernando?label=follow&style=social)](https://github.com/TI-fernando)
 
-![Snake animation](https://github.com/TI-fernando/TI-fernando/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TI-fernando/TI-fernando/blob/output/github-contribution-grid-snake-dark.svg)
