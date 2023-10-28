@@ -53,4 +53,5 @@ Olá! Sou Fernando, um entusiasta do Desenvolvimento Front-End com paixão por c
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandohenrique654/)](https://www.linkedin.com/in/fernandohenrique654/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-&logo=Gmail&logoColor=white&link=mailto:fernandoagro.654@gmail.com)](mailto:fernandoagro.654@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/TI-fernando?label=follow&style=social)](https://github.com/TI-fernando)
-![](https://komarev.com/ghpvc/?username=TI-fernando&color=006bed)
+
+![Snake animation](https://github.com/TI-fernando/TI-fernando/blob/output/github-contribution-grid-snake.svg)
